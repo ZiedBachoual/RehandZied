@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "397407948890",
+    "project_id": "rehand-6f638",
+    "storage_bucket": "rehand-6f638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397407948890:android:f5221b7540a7f2835bc863",
+        "android_client_info": {
+          "package_name": "com.example.rehand"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuRBZwxYYgErkPXArTV3mScG2Nb0xP5Fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
