@@ -1,6 +1,6 @@
 # Rehand project
 
-Welcome to Rehand! this project is a mobile app designed to control your smart glove using IoT. This experience, was my first-ever Flutter project and also my end-of-study project! 🎓
+Welcome to Rehand! this project is a mobile app designed to control your smart glove using IoT. This experience, was my first-ever Flutter, PCB design and IoT project and also my end-of-studies project! 🎓
 
 # Overview
 
@@ -14,6 +14,6 @@ Traditional muscle recovery methods can be difficult and unmotivating, leading t
 - Connecting to the smart glove through Internet connection based on the user ID.
 
 # Project Details
-This project was a great opportunity for me to learn Flutter and dive into the world of IoT and mobile applications. It's been a fantastic learning experience, and I'm proud to present this app as the result of my hard work and dedication.
+This project was a great opportunity for me to learn Flutter and dive into the world of IoT, mobile applications and PCB design. It's been a fantastic learning experience, and I'm proud to present this app as the result of my hard work and dedication.
 
 Thank you for joining me on this amazing journey! 🌟
