@@ -16,4 +16,7 @@ Traditional muscle recovery methods can be difficult and unmotivating, leading t
 # Project Details
 This project was a great opportunity for me to learn Flutter and dive into the world of IoT, mobile applications and PCB design. It's been a fantastic learning experience, and I'm proud to present this app as the result of my hard work and dedication.
 
+You can access this link to see a more detailed presentation:
+https://drive.google.com/file/d/1skABHoZU-aLtLujfoOJdMFTDsUibSriw/view?usp=sharing
+
 Thank you for joining me on this amazing journey! 🌟
